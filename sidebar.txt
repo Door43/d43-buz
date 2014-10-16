@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buz:home|Door43 (buz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buz|d43-buz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buz/archive/master.zip|d43-buz.zip]]
+
+**Recent Changes**
+{{changes>ns = buz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buz|Ethnologue data]]
+
